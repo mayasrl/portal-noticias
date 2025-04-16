@@ -1,4 +1,4 @@
-# Portal de Notícias
+# Tech News
 
 Este projeto é um **portal de notícias** desenvolvido em **HTML5** e **CSS3**. Projeto realizado em aula no curso Fullstack da Rocketseat.
 
